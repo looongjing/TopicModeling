@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: youtube_topic_modeling
+Version: 0.1.0
+Summary: This can be used to make topic modeling for transcripts.
+Author-email: Long-Jing Hsu <longjinghsu@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pillow>=12.0.0
+Requires-Dist: pytest
+Requires-Dist: nltk
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib.pyplot
+Requires-Dist: seaborn
+Requires-Dist: sklearn
+Requires-Dist: re
+Requires-Dist: sys

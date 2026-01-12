@@ -1,0 +1,10 @@
+pillow>=12.0.0
+pytest
+nltk
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sklearn
+re
+sys
